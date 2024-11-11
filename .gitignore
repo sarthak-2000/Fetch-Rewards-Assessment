@@ -1,4 +1,8 @@
+# Exclude everything inside the target folder except for the built JAR files
 
+
+# Include Maven wrapper JAR
+!.mvn/wrapper/maven-wrapper.jar
 
 # Spring Tool Suite (STS)
 .apt_generated
@@ -27,3 +31,6 @@ build/
 
 # Visual Studio Code
 .vscode/
+
+# Help files
+HELP.md
