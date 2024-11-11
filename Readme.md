@@ -230,14 +230,11 @@ The points calculation logic follows these rules and assumptions:
    - The default application port is **8080**.
    - The H2 console is also accessible via port **8080**.
 
-3. **Docker Usage**:
-   - The Docker image assumes the application JAR is built as `apiApplication-0.0.1-SNAPSHOT.jar`.
-
 ---
 
 ## Future Considerations
 
-- For production, consider using a persistent database (e.g., PostgreSQL or MySQL) to retain data across restarts.
-- Implement robust request validation and error handling for invalid inputs.
-- Use environment variables to configure database credentials and application 
+- For production, I would consider using a persistent database (e.g., PostgreSQL or MySQL) to retain data across restarts.
+- Implementation of robust request validation and error handling for invalid inputs.
+- Usage environment variables to configure database credentials and application.
 
