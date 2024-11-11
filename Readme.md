@@ -11,8 +11,7 @@ This project is a Spring Boot application that uses an H2 in-memory database. Th
 ## Step1: Clone the Repository:
    
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/sarthak-2000/Fetch-Rewards-Assessment.git
    ````
 
 ## Step 2: Build the Docker Image

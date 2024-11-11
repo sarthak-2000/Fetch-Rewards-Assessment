@@ -1,0 +1,6 @@
+com\fetchRewards\apiApplication\model\Receipt$Item.class
+com\fetchRewards\apiApplication\controller\ReceiptController.class
+com\fetchRewards\apiApplication\repository\ReceiptRepository.class
+com\fetchRewards\apiApplication\Utils\Utils.class
+com\fetchRewards\apiApplication\model\Receipt.class
+com\fetchRewards\apiApplication\ApiApplication.class
