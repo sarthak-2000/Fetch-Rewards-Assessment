@@ -31,14 +31,14 @@ docker run -p 8080:8080 api-application:latest
 ## Step 4: Access the Application and H2 Console
 Once the container is running, you can access the following:
 
->Application: http://localhost:8080\
->H2 Console: http://localhost:8080/h2-console
+>Application: http://localhost:8080 \
+>H2 Console: http://localhost:8080/h2-console \
 
 For the H2 Console, use the following credentials:
 
->JDBC URL: jdbc:h2:mem:testdb\
->Username: sa\
->Password: password\
+>JDBC URL: jdbc:h2:mem:testdb \
+>Username: sa \
+>Password: password \
 
 ## Step 5: POST and GET requests for testing output.
 
