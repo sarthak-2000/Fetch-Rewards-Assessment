@@ -8,7 +8,7 @@ This project is a Spring Boot application that uses an H2 in-memory database. Th
 
 ## Building and Running the Application
 
-## Step1: Clone the Repository:
+## Step 1: Clone the Repository:
    
    ```bash
    git clone https://github.com/sarthak-2000/Fetch-Rewards-Assessment.git
